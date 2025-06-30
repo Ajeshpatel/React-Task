@@ -36,7 +36,7 @@ A responsive food ordering web application built using **React (Vite)**, **Tailw
 
 ```bash
 # 1. Clone the project
-git clone https://github.com/your-username/food-order-app.git
+git clone https://github.com/Ajeshpatel/React-Task.git
 cd food-order-app
 
 # 2. Install dependencies
